@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ENP-KIT-RL1-rescue")(type "Legacy")(uri "${KIPRJMOD}/ENP-KIT-RL1-rescue.lib")(options "")(descr ""))
+)
