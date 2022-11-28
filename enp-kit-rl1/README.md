@@ -13,7 +13,7 @@ Board was designed in an open-source software, KiCad 6.0.
 | Schematic          | [ENP-KIT-RL1](./Production_files/ENP-KIT-RL1_V1.0_schematic.pdf)  | PDF         |
 | Quick Start Guide  | Coming soon... | PDF         |
 | Plastic Enclosure  | <a href="https://www.budind.com/product/general-use-boxes/utilibox-style-j-series-utility-boxes/cu-1941-mb" target="_blank">CU-1941-MB</a> | Plastic Box |
-| Where to order for production  | <a href="https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100" target="_blank">jlcpcb.com</a> | You can order the board together with SMT Assembly, there is a separate [archive]((./Production_files/jlcpcb_files_V1.0.zip) that includes everything you need |
+| Where to order for production  | <a href="https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100" target="_blank">jlcpcb.com</a> | You can order the board together with SMT Assembly, there is a separate [archive](./Production_files/jlcpcb_files_V1.0.zip) that includes everything you need |
 
 
 You also need module:
