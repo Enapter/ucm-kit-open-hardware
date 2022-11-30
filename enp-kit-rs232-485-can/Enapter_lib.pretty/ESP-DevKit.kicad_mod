@@ -1,0 +1,14 @@
+(module ESP-DevKit (layer F.Cu) (tedit 614B5BE9)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ESP-DevKit (at 0 -1.1) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" smd circle (at 0 0) (size 0.1 0.1) (layers F.Paste))
+  (model ${KIPRJMOD}/3d_step/ESP32-WROOM-32D-Assembly.STEP
+    (offset (xyz 0 0 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+)
