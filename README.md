@@ -1,5 +1,5 @@
-<img height="auto" width="auto" src=".assets/ucm-kit-dark.png#gh-dark-mode-only" style="max-width: 100%;" alt="enapter blueprint marketplace">
-<img height="auto" width="auto" src=".assets/ucm-kit-dark-light.png#gh-light-mode-only" style="max-width: 100%;" alt="enapter blueprint marketplace">
+<img height="auto" width="auto" src=".assets/ucm-kit-dark.png#gh-dark-mode-only" style="max-width: 100%;" alt="enapter ucm kit">
+<img height="auto" width="auto" src=".assets/ucm-kit-dark-light.png#gh-light-mode-only" style="max-width: 100%;" alt="enapter ucm kit">
 
 # What is Enapter UCM Kit
 
