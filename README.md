@@ -12,3 +12,7 @@ Enapter UCM Kit based on several important open source and free to use component
 All schematics, CAD files and supplementary materials in this repository are subject of [Solderpad Hardware License v2.1](http://solderpad.org/licenses/SHL-2.1/). Feel free to modify and use for your own projects.
 
 Find more information about Enapter UCM Kit at [Enapter Developer's Portal](https://go.enapter.com/ucmkit-enpkit).
+
+# Release Notes
+
+Check out the [Changelog](./CHANGELOG.md) for the latest updates and release notes.
